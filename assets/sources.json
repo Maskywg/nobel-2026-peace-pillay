@@ -14,5 +14,21 @@
     "author": "<a href=\"//commons.wikimedia.org/wiki/User:Lybil\" title=\"User:Lybil\">Lybil</a>",
     "license": "CC BY-SA 3.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "durban.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Durban_skyline.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Durban_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "author": "PhilippN",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5"
+  },
+  {
+    "file": "geneva.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_des_Nations.jpg",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Palais_des_Nations.jpg/1920px-Palais_des_Nations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andi475&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andi475 (page does not exist)\">andi475</a>",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
   }
 ]
